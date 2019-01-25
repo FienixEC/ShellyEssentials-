@@ -23,7 +23,7 @@ permissions:
  clearinv.command:
   default: op
  wild.command:
-  default: true
+  default: op
  nick.command:
   default: op
  vanish.command:
